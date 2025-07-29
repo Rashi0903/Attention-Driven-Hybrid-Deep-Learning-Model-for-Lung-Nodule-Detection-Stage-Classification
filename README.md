@@ -54,3 +54,9 @@ This project leverages a powerful combination of state-of-the-art models and att
 
 ✅ End-to-End Deep Learning Pipeline
 
+---
+## 🖼️ Visualizations
+
+🔄 Augmented CT Scan Samples
+<img width="940" height="205" alt="image" src="https://github.com/user-attachments/assets/2b9fb961-ca11-465f-8a4b-02580485d54e" />
+
