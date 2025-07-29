@@ -40,8 +40,10 @@ This project leverages a powerful combination of state-of-the-art models and att
    ├─ F1-Score  
    ├─ IoU (Intersection over Union)  
    └─ Dice Coefficient  
+```
+---
 
-🚀 Key Features
+## 🚀 Key Features
 ✅ Automated Lung Nodule Detection
 
 ✅ High-Accuracy Segmentation with U-Net + Attention
